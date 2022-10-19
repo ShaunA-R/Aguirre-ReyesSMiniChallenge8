@@ -1,0 +1,15 @@
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.exe
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.deps.json
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.runtimeconfig.json
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.dll
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.pdb
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.csproj.AssemblyReference.cache
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.AssemblyInfoInputs.cache
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.AssemblyInfo.cs
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.csproj.CoreCompileInputs.cache
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.dll
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\refint\Aguirre-ReyesSMiniChallenge8.dll
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.pdb
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge8.genruntimeconfig.cache
+C:\Users\Reyes\Documents\GitRepository\Aguirre-ReyesSMiniChallenge8-1\obj\Debug\net6.0\ref\Aguirre-ReyesSMiniChallenge8.dll

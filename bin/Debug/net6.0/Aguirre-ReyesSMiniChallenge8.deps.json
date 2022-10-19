@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aguirre-ReyesSMiniChallenge8/1.0.0": {
+        "runtime": {
+          "Aguirre-ReyesSMiniChallenge8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aguirre-ReyesSMiniChallenge8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,7 +8,7 @@ Console.Clear();
 string playAgain = "yes";
 while(playAgain == "yes"){
 {
-    Console.WriteLine("Hello, Today i will try to guess the number you're thinking of");
+    Console.WriteLine("Hello, try to guess the number i'm thinking of :)");
     Console.WriteLine("Lets select a difficulty. Would you like. Easy? Medium? or Hard?");
 
     string unknownDifficulty = Console.ReadLine().ToLower();

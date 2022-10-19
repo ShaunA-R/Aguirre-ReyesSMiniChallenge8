@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge8\\Aguirre-ReyesSMiniChallenge8.csproj": {}
+    "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge8-1\\Aguirre-ReyesSMiniChallenge8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge8\\Aguirre-ReyesSMiniChallenge8.csproj": {
+    "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge8-1\\Aguirre-ReyesSMiniChallenge8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge8\\Aguirre-ReyesSMiniChallenge8.csproj",
+        "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge8-1\\Aguirre-ReyesSMiniChallenge8.csproj",
         "projectName": "Aguirre-ReyesSMiniChallenge8",
-        "projectPath": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge8\\Aguirre-ReyesSMiniChallenge8.csproj",
+        "projectPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge8-1\\Aguirre-ReyesSMiniChallenge8.csproj",
         "packagesPath": "C:\\Users\\Reyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge8\\obj\\",
+        "outputPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge8-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reyes\\AppData\\Roaming\\NuGet\\NuGet.Config"
